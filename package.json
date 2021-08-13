@@ -1,0 +1,19 @@
+{
+  "name": "roll-call",
+  "version": "1.0.0",
+  "description": "Attendance tracking app for classroom setting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fortypercenttitanium/roll-call.git"
+  },
+  "author": "Alex Younger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fortypercenttitanium/roll-call/issues"
+  },
+  "homepage": "https://github.com/fortypercenttitanium/roll-call#readme"
+}
